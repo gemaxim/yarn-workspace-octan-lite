@@ -29,7 +29,7 @@
     "babel-core": "^7.0.0-bridge.0"
   },
   "dependencies": {
-    "@babel/core": "^7.0.0",
+    "@babel/core": "^7.26.10",
     "@babel/plugin-proposal-class-properties": "^7.0.0",
     "@babel/plugin-proposal-export-default-from": "^7.0.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.0.0",
@@ -41,7 +41,7 @@
     "@babel/preset-flow": "^7.0.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/runtime": "^7.0.0",
-    "@babel/runtime-corejs2": "^7.0.0",
+    "@babel/runtime-corejs2": "^7.26.10",
     "acorn": "^6.0.2",
     "ansi-html": "^0.0.7",
     "autoprefixer": "^9.1.5",
@@ -131,7 +131,7 @@
     "sass-loader": "^7.0.3",
     "semver": "^5.5.1",
     "styled-components": "^4.1.2",
-    "stylelint": "^9.5.0",
+    "stylelint": "^13.3.1",
     "stylelint-config-recommended": "^2.1.0",
     "stylelint-config-styled-components": "^0.1.1",
     "stylelint-processor-styled-components": "^1.3.2",
