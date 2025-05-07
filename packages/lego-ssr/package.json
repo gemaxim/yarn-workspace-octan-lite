@@ -21,7 +21,7 @@
     }
   },
   "dependencies": {
-    "@babel/runtime": "^7.0.0",
+    "@babel/runtime": "^7.26.10",
     "@babel/runtime-corejs2": "^7.0.0",
     "babel-plugin-universal-import": "^4.0.0",
     "compression": "^1.7.2",
